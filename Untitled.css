@@ -6011,3 +6011,7 @@ body > * {
 
 .blockgj {
   height: 100vh; }
+
+.toblock {
+  width: 90%;
+  margin: 20px; }
